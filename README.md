@@ -3,7 +3,13 @@
 I'm Shun Takahashi (@moko-poi) from Tokyo.
 
 I love AWS and Kubernetes and enjoy developing OSS in my free time.
-You can find me on [X](https://x.com/moko-poi).
+You can find me on [X](https://x.com/moko-poi) and [LinkedIn](https://www.linkedin.com/in/shun-takahashi-63500634b/).
+```
+
+**2つ目の文章：**
+```
+Feel free to connect with me on [X](https://x.com/moko-poi) and [LinkedIn](https://www.linkedin.com/in/shun-takahashi-63500634b/).
+I'm not actively looking for a new role, but I'm always open to hearing about interesting opportunities.
 
 ## Research & Writings
 
@@ -39,6 +45,5 @@ You can find me on [X](https://x.com/moko-poi).
 
 ---
 
-Feel free to connect with me on [X](https://x.com/moko-poi).
-
+Feel free to connect with me on [X](https://x.com/moko-poi) and [LinkedIn](https://www.linkedin.com/in/shun-takahashi-63500634b/).
 I'm not actively looking for a new role, but I'm always open to hearing about interesting opportunities.
