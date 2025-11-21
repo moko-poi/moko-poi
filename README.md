@@ -18,7 +18,7 @@ You can find me on [X](https://x.com/moko-poi) and [LinkedIn](https://www.linked
     * Role: Core Staff
 
 ## Open Source Contributions
-
+* [karpenter](https://github.com/kubernetes-sigs/karpenter) - Contributor
 * [karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws) - Contributor
 * [karpenter-provider-cluster-api](https://github.com/kubernetes-sigs/karpenter-provider-cluster-api) - Contributor
 * [cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator) - Contributor
