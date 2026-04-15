@@ -10,13 +10,6 @@ You can find me on [X](https://x.com/moko-poi) and [LinkedIn](https://www.linked
 * [Blog](https://zenn.dev/moko_poi)
 * [Slide](https://speakerdeck.com/mokopoi)
 
-## Community Involvement
-
-* [SRE Kaigi](https://2026.srekaigi.net/)
-    * Role: Core Staff
-* [OpsJAWS](https://opsjaws.connpass.com/)
-    * Role: Core Staff
-
 ## Open Source Contributions
 * [karpenter](https://github.com/kubernetes-sigs/karpenter) - Contributor
 * [karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws) - Contributor
