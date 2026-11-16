@@ -16,15 +16,15 @@ Tokyo-based engineer who loves **AWS** and **Kubernetes**, and enjoys building a
 
 ## 🌱 Open Source Contributions
 
-| Project | Role | |
+| Project | Role | Merged PRs |
 | --- | --- | --- |
-| [kubernetes-sigs/karpenter](https://github.com/kubernetes-sigs/karpenter) | Contributor | [PRs](https://github.com/kubernetes-sigs/karpenter/pulls?q=is%3Apr+author%3Amoko-poi+is%3Amerged) |
-| [aws/karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws) | Contributor | [PRs](https://github.com/aws/karpenter-provider-aws/pulls?q=is%3Apr+author%3Amoko-poi+is%3Amerged) |
-| [kubernetes-sigs/karpenter-provider-cluster-api](https://github.com/kubernetes-sigs/karpenter-provider-cluster-api) | Contributor | [PRs](https://github.com/kubernetes-sigs/karpenter-provider-cluster-api/pulls?q=is%3Apr+author%3Amoko-poi+is%3Amerged) |
-| [kubernetes-sigs/cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator) | Contributor | [PRs](https://github.com/kubernetes-sigs/cluster-api-operator/pulls?q=is%3Apr+author%3Amoko-poi+is%3Amerged) |
-| [grafana/k6](https://github.com/grafana/k6) | Contributor | [PRs](https://github.com/grafana/k6/pulls?q=is%3Apr+author%3Amoko-poi+is%3Amerged) |
-| [grafana/k6-operator](https://github.com/grafana/k6-operator) | Contributor | [PRs](https://github.com/grafana/k6-operator/pulls?q=is%3Apr+author%3Amoko-poi+is%3Amerged) |
-| [valkey-io/valkey](https://github.com/valkey-io/valkey) | Contributor | [PRs](https://github.com/valkey-io/valkey/pulls?q=is%3Apr+author%3Amoko-poi+is%3Amerged) |
+| [kubernetes-sigs/karpenter](https://github.com/kubernetes-sigs/karpenter) | Contributor | [View](https://github.com/kubernetes-sigs/karpenter/pulls?q=is%3Apr+author%3Amoko-poi+is%3Amerged) |
+| [aws/karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws) | Contributor | [View](https://github.com/aws/karpenter-provider-aws/pulls?q=is%3Apr+author%3Amoko-poi+is%3Amerged) |
+| [kubernetes-sigs/karpenter-provider-cluster-api](https://github.com/kubernetes-sigs/karpenter-provider-cluster-api) | Contributor | [View](https://github.com/kubernetes-sigs/karpenter-provider-cluster-api/pulls?q=is%3Apr+author%3Amoko-poi+is%3Amerged) |
+| [kubernetes-sigs/cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator) | Contributor | [View](https://github.com/kubernetes-sigs/cluster-api-operator/pulls?q=is%3Apr+author%3Amoko-poi+is%3Amerged) |
+| [grafana/k6](https://github.com/grafana/k6) | Contributor | [View](https://github.com/grafana/k6/pulls?q=is%3Apr+author%3Amoko-poi+is%3Amerged) |
+| [grafana/k6-operator](https://github.com/grafana/k6-operator) | Contributor | [View](https://github.com/grafana/k6-operator/pulls?q=is%3Apr+author%3Amoko-poi+is%3Amerged) |
+| [valkey-io/valkey](https://github.com/valkey-io/valkey) | Contributor | [View](https://github.com/valkey-io/valkey/pulls?q=is%3Apr+author%3Amoko-poi+is%3Amerged) |
 
 Also contributed to [argo-cd](https://github.com/argoproj/argo-cd), [terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws), [terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks), [pipecd](https://github.com/pipe-cd/pipecd), and [xk6](https://github.com/grafana/xk6).
 
@@ -35,7 +35,7 @@ Also contributed to [argo-cd](https://github.com/argoproj/argo-cd), [terraform-p
 
 ## 📊 GitHub Stats
 
-<p>
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg">
     <img src="./profile/stats-light.svg" alt="GitHub Stats" height="170">
@@ -46,15 +46,17 @@ Also contributed to [argo-cd](https://github.com/argoproj/argo-cd), [terraform-p
   </picture>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=moko-poi&theme=github-dark-blue&hide_border=true">
-  <img src="https://streak-stats.demolab.com/?user=moko-poi&hide_border=true" alt="GitHub Streak">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=moko-poi&theme=github-dark&hide_border=true">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moko-poi&theme=github-compact&hide_border=true" alt="Contribution Activity Graph">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=moko-poi&theme=github-dark-blue&hide_border=true">
+    <img src="https://streak-stats.demolab.com/?user=moko-poi&hide_border=true" alt="GitHub Streak">
+  </picture>
+  <br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=moko-poi&theme=github-dark&hide_border=true">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=moko-poi&theme=github-compact&hide_border=true" alt="Contribution Activity Graph">
+  </picture>
+</p>
 
 ---
 
